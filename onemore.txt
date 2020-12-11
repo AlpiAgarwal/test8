@@ -1,1 +1,5 @@
 adding here and commiting
+
+Staged changes
+
+in working directory
