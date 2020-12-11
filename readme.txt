@@ -1,3 +1,4 @@
+adding copyright
 #This is a readme file
 committed 
 ##This is the intro
