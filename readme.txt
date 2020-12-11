@@ -6,3 +6,5 @@ in stgaing area
 ##how to contribute
 in working directory
 ## new section here
+
+adding something to master while working on simple branch
