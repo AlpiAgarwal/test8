@@ -8,3 +8,5 @@ in working directory
 ## new section here
 
 adding something to master while working on simple branch
+
+editing readme from github
